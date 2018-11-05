@@ -1,0 +1,14 @@
+Theme : Malls
+
+
+Use Cases:
+Location
+what to buy
+where to eat
+time
+events
+careers
+Different types
+
+
+
