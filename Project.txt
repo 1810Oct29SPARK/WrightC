@@ -1,15 +1,16 @@
-Theme : Uber
+Spring Breakers
 
 
 Use Cases:
-Why to drive for uber
-where are the best places to drive/ciies that maket he most money
-payment
-safety
-How to drive/app
-negatvies
-tips
-Best cars for uber
+Login to acess certain parts of the website
+Navigation to scroll to direcet link and not have to click on back
+Create acount , lets you create your own person account
+Gallery lets you see pictures and click on link for information
+Rating sytem , lets you play with the rating
+Caculator - build in calculator lets you caculate the price
+21 and older takes you to the 21 and older cite
+search bar - lets you search extra information not on website
+
 
 
 
